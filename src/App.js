@@ -3,7 +3,7 @@ import "./App.css";
 function Title() {
   return (
     <div id="title">
-      <h1 className="text">Discarded//Unwanted</h1>
+      <h1 className="text">discarded//unwanted</h1>
     </div>
   );
 }
